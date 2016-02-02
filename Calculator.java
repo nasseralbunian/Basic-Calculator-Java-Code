@@ -20,5 +20,7 @@ public class Calculator {
 		System.out.println(first + " / " + second + " = " + (first/second));
 		
 		System.out.println("Sqrt of first number = " + (Math.sqrt(first)));
+		
+		System.out.println("2 to the power of " + second + " = " + Math.pow(2,second));
 	}
 }
