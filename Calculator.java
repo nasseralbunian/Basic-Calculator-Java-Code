@@ -14,5 +14,9 @@ public class Calculator {
 		System.out.println(first + " + " + second + " = " + (first+second));
 		
 		System.out.println(first + " - " + second + " = " + (first-second));
+		
+		System.out.println(first + " * " + second + " = " + (first*second));
+		
+		System.out.println(first + " / " + second + " = " + (first/second));
 	}
 }
